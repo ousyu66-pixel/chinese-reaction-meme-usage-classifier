@@ -2,6 +2,13 @@
 
 This project builds a custom image dataset from public Chinese meme resources, then trains classifiers on CLIP-style image embeddings.
 
+## Links
+
+- GitHub: https://github.com/ousyu66-pixel/chinese-reaction-meme-usage-classifier
+- Hugging Face Dataset: https://huggingface.co/datasets/ousyu66/chinese-reaction-meme-usage
+- Hugging Face Model: https://huggingface.co/ousyu66/chinese-reaction-meme-usage-classifier
+- Hugging Face Space Demo: https://huggingface.co/spaces/ousyu66/chinese-reaction-meme-usage-demo
+
 Recommended assignment topic:
 
 > Chinese reaction meme usage classification using image embeddings.

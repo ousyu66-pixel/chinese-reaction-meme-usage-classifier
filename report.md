@@ -1,9 +1,9 @@
 # Chinese Reaction Meme Usage Classification Using Image Embeddings
 
-**GitHub repository:** TODO  
-**Hugging Face dataset:** TODO  
-**Hugging Face model:** TODO  
-**Hugging Face demo Space:** TODO  
+**GitHub repository:** https://github.com/ousyu66-pixel/chinese-reaction-meme-usage-classifier  
+**Hugging Face dataset:** https://huggingface.co/datasets/ousyu66/chinese-reaction-meme-usage  
+**Hugging Face model:** https://huggingface.co/ousyu66/chinese-reaction-meme-usage-classifier  
+**Hugging Face demo Space:** https://huggingface.co/spaces/ousyu66/chinese-reaction-meme-usage-demo  
 
 ## 1. Problem Definition
 
