@@ -1,0 +1,532 @@
+filename,image,text,weak_label,label,split,source_dataset,notes
+00000.jpg,images/00000.jpg,Contribution 贡献 000000000 gif,neutral,neutral,train,mrzjy/ChineseBQB,"remove_static_frame
+"
+00001.jpg,images/00001.jpg,Contribution 贡献 2c7889dbe9efbf7145d3ef669b11d22d gif,neutral,mocking,train,mrzjy/ChineseBQB,"
+"
+00002.jpg,images/00002.jpg,Contribution 贡献 4c92b891ly1ghxdcssghij205k04u74a jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_teasing
+
+"
+00003.jpg,images/00003.jpg,Contribution 贡献 8b4a01da911cb2b27f38392a067d0a0b jpg,neutral,mocking,train,mrzjy/ChineseBQB,"sarcastic_tone
+
+"
+00004.jpg,images/00004.jpg,Contribution 贡献 歪脑 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"cute
+
+
+"
+00005.jpg,images/00005.jpg,Contribution 贡献 contribution00002 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"sarcastic_tone
+
+
+
+"
+00006.jpg,images/00006.jpg,Contribution 贡献 contribution00003 gif,neutral,mocking,train,mrzjy/ChineseBQB,"celebrity_mocking
+
+
+
+
+"
+00007.jpg,images/00007.jpg,Contribution 贡献 contribution00005 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"friendly_teasing
+
+
+
+
+"
+00008.jpg,images/00008.jpg,Contribution 贡献 contribution00006 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"friendly_teasing
+
+
+
+
+"
+00009.jpg,images/00009.jpg,Contribution 贡献 contribution00007 jpg,neutral,neutral,test,mrzjy/ChineseBQB,"friendly_joke
+
+
+
+
+"
+00010.jpg,images/00010.jpg,Contribution 贡献 contribution00008 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"cute
+
+
+"
+00011.jpg,images/00011.jpg,Contribution 贡献 contribution00009 jpg,neutral,comfort,train,mrzjy/ChineseBQB,"sad_express
+"
+00012.jpg,images/00012.jpg,Contribution 贡献 contribution00010 jpg,neutral,agreement,train,mrzjy/ChineseBQB,"playful_praise
+
+"
+00013.jpg,images/00013.jpg,Contribution 贡献 contribution00011 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"cute
+
+"
+00014.jpg,images/00014.jpg,Contribution 贡献 contribution00012 gif,neutral,confusion,train,mrzjy/ChineseBQB,"
+
+"
+00015.jpg,images/00015.jpg,Contribution 贡献 contribution00013 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_nonsense
+
+
+"
+00016.jpg,images/00016.jpg,Contribution 贡献 hetui001 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"friendly_mocking
+
+
+"
+00017.jpg,images/00017.jpg,Contribution 贡献 hetui002 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"friendly_mocking
+
+
+"
+00018.jpg,images/00018.jpg,Contribution 贡献 hetui003 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"friendly_mocking
+
+
+"
+00019.jpg,images/00019.jpg,Contribution 贡献 hetui004 jpg,neutral,mocking,test,mrzjy/ChineseBQB,"friendly_mocking
+
+
+"
+00020.jpg,images/00020.jpg,Contribution 贡献 376c0ee1664a20ca gif,neutral,neutral,train,mrzjy/ChineseBQB,"nonsense
+
+
+"
+00021.jpg,images/00021.jpg,Contribution 贡献 78bea92e972d7395 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_threat
+
+
+
+"
+00022.jpg,images/00022.jpg,Contribution 贡献 19 13 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_bragging
+
+
+
+"
+00023.jpg,images/00023.jpg,Contribution 贡献 250df27e9c8e6c26549a876fbdad61fe8d224229 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"no_special_meaning
+
+
+
+"
+00024.jpg,images/00024.jpg,Contribution 贡献 41e1f9aa39d7534c jpg,neutral,mocking,train,mrzjy/ChineseBQB,"
+playful_teasing
+
+
+"
+00025.jpg,images/00025.jpg,Contribution 贡献 6dd57921ly1ghenwqkjx3j20aq0afdgr jpg,neutral,refusal,train,mrzjy/ChineseBQB,"playful_teasing
+
+
+"
+00026.jpg,images/00026.jpg,Contribution 贡献 72104f1ab294919b12925486bba2b5f08119f961 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"no_special_meaning
+
+
+"
+00027.jpg,images/00027.jpg,Contribution 贡献 e0cdeb6a6f9bf9989d8bb7d150d808e0 jpg,neutral,neutral,validation,mrzjy/ChineseBQB,"cute_hungry
+
+"
+00028.jpg,images/00028.jpg,Contribution 贡献  jpg,neutral,confusion,validation,mrzjy/ChineseBQB,"cute_confusion
+
+"
+00029.jpg,images/00029.jpg,Contribution 贡献 TIM图片20200524084313 png,neutral,refusal,test,mrzjy/ChineseBQB,"cute_refusal
+
+"
+00030.jpg,images/00030.jpg,Contribution 贡献 泪，冲了下来 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"abstract_sadness
+
+"
+00031.jpg,images/00031.jpg,"Contribution 贡献 睡了一整天,好累哦 jpg",neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking
+
+
+"
+00032.jpg,images/00032.jpg,Contribution 贡献 劳资来了渣渣们都退下吧 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"showing_off
+
+
+
+"
+00033.jpg,images/00033.jpg,Contribution 贡献 悟空退下吧为师一个人就足够了 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"showing_off
+
+
+
+"
+00034.jpg,images/00034.jpg,Contribution 贡献 扇贝听了都想鼓掌 gif,neutral,agreement,train,mrzjy/ChineseBQB,"
+playful_praise
+
+
+
+"
+00035.jpg,images/00035.jpg,Contribution 贡献 本王要退寝了没事就退下吧 jpg,comfort,mocking,train,mrzjy/ChineseBQB,"showing_off
+
+
+
+"
+00036.jpg,images/00036.jpg,Contribution 贡献 浏览器 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"browser_meme_unclear
+
+"
+00037.jpg,images/00037.jpg,Contribution 贡献 程序员专属表情包_01 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"gender_discomfort
+
+
+"
+00038.jpg,images/00038.jpg,Contribution 贡献 程序员专属表情包_02 jpg,neutral,neutral,validation,mrzjy/ChineseBQB,"sad_mood
+
+
+
+"
+00039.jpg,images/00039.jpg,Contribution 贡献 程序员专属表情包_03 jpg,neutral,mocking,test,mrzjy/ChineseBQB,"self_mocking
+
+
+
+"
+00040.jpg,images/00040.jpg,Contribution 贡献 程序员专属表情包_04 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking _and_showing_off
+
+
+"
+00041.jpg,images/00041.jpg,Contribution 贡献 程序员专属表情包_05 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking _and_showing_off
+
+
+"
+00042.jpg,images/00042.jpg,Contribution 贡献 程序员专属表情包_06 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking _and_showing_off
+
+
+"
+00043.jpg,images/00043.jpg,Contribution 贡献 程序员专属表情包_07 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking _and_showing_off
+
+
+"
+00044.jpg,images/00044.jpg,Contribution 贡献 程序员专属表情包_08 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking _and_showing_off
+
+
+"
+00045.jpg,images/00045.jpg,Contribution 贡献 程序员专属表情包_09 gif,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking _and_showing_off
+
+
+"
+00046.jpg,images/00046.jpg,Contribution 贡献 程序员专属表情包_10 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking _and_showing_off
+
+
+"
+00047.jpg,images/00047.jpg,Contribution 贡献 程序员专属表情包_11 png,neutral,mocking,validation,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00048.jpg,images/00048.jpg,Contribution 贡献 程序员专属表情包_12 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00049.jpg,images/00049.jpg,Contribution 贡献 程序员专属表情包_13 jpg,neutral,mocking,test,mrzjy/ChineseBQB,"playful_mocking 
+
+
+"
+00050.jpg,images/00050.jpg,Contribution 贡献 程序员专属表情包_14 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking 
+
+
+"
+00051.jpg,images/00051.jpg,Contribution 贡献 程序员专属表情包_15 gif,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking 
+
+
+"
+00052.jpg,images/00052.jpg,Contribution 贡献 程序员专属表情包_16 jpg,neutral,agreement,train,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00053.jpg,images/00053.jpg,Contribution 贡献 程序员专属表情包_17 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00054.jpg,images/00054.jpg,Contribution 贡献 程序员专属表情包_18 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00055.jpg,images/00055.jpg,Contribution 贡献 程序员专属表情包_19 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00056.jpg,images/00056.jpg,Contribution 贡献 程序员专属表情包_20 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking 
+
+
+"
+00057.jpg,images/00057.jpg,Contribution 贡献 程序员专属表情包_21 jpg,neutral,agreement,validation,mrzjy/ChineseBQB,"
+
+
+"
+00058.jpg,images/00058.jpg,Contribution 贡献 程序员专属表情包_22 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"self_or_palyful_mocking
+
+"
+00059.jpg,images/00059.jpg,Contribution 贡献 程序员专属表情包_23 jpg,neutral,mocking,test,mrzjy/ChineseBQB,"self_or_palyful_mocking
+
+"
+00060.jpg,images/00060.jpg,Contribution 贡献 程序员专属表情包_24 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking_and_showing_off
+
+"
+00061.jpg,images/00061.jpg,Contribution 贡献 程序员专属表情包_25 jpg,neutral,confusion,train,mrzjy/ChineseBQB,"debugging_breakdown
+
+"
+00062.jpg,images/00062.jpg,Contribution 贡献 程序员专属表情包_26 png,neutral,agreement,train,mrzjy/ChineseBQB,"coding_call_to_action
+
+"
+00063.jpg,images/00063.jpg,Contribution 贡献 程序员专属表情包_27 png,neutral,agreement,train,mrzjy/ChineseBQB,"coding_call_to_action
+
+"
+00064.jpg,images/00064.jpg,Contribution 贡献 程序员专属表情包_28 jpg,neutral,agreement,train,mrzjy/ChineseBQB,"coding_call_to_action
+
+"
+00065.jpg,images/00065.jpg,Contribution 贡献 程序员专属表情包_29 jpg,neutral,refusal,train,mrzjy/ChineseBQB,"playful_refuse_coding_call
+
+"
+00066.jpg,images/00066.jpg,Contribution 贡献 你有病得治 gif,neutral,mocking,train,mrzjy/ChineseBQB,"sacrisim_tone
+
+"
+00067.jpg,images/00067.jpg,Contribution 贡献 还不快给本宫退下吧 gif,neutral,refusal,validation,mrzjy/ChineseBQB,"friendly_refusal
+"
+00068.jpg,images/00068.jpg,Contribution 贡献 退下吧 gif,neutral,refusal,validation,mrzjy/ChineseBQB,"friendly_refusal
+"
+00069.jpg,images/00069.jpg,Funny 滑稽大佬 000000001 gif,neutral,mocking,test,mrzjy/ChineseBQB,"playful_threat
+"
+00070.jpg,images/00070.jpg,Funny 滑稽大佬 360度鄙视你 gif,neutral,mocking,train,mrzjy/ChineseBQB,"playful_contempt
+"
+00071.jpg,images/00071.jpg,Funny 滑稽大佬 抱竹竿 gif,neutral,neutral,train,mrzjy/ChineseBQB,no_special_meaning
+00072.jpg,images/00072.jpg,Funny 滑稽大佬 抱墙 gif,neutral,neutral,train,mrzjy/ChineseBQB,no_special_meaning
+00073.jpg,images/00073.jpg,Funny 滑稽大佬 一名路过的小码农 jpg,neutral,mocking,train,mrzjy/ChineseBQB,self_mocking_and_showing_off
+00074.jpg,images/00074.jpg,Funny 滑稽大佬 给你看看爸爸的厉害 gif,neutral,mocking,train,mrzjy/ChineseBQB,playful_mocking
+00075.jpg,images/00075.jpg,Funny 滑稽大佬 抱住 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"self_mocking
+"
+00076.jpg,images/00076.jpg,Funny 滑稽大佬 打不到 gif,neutral,mocking,train,mrzjy/ChineseBQB,"playful_mocking
+"
+00077.jpg,images/00077.jpg,Funny 滑稽大佬 可怜 gif,neutral,mocking,validation,mrzjy/ChineseBQB,"absurd_pitiful_meme
+"
+00078.jpg,images/00078.jpg,Funny 滑稽大佬 咚次嗒次咚咚哒 gif,neutral,neutral,validation,mrzjy/ChineseBQB,no_special_meaning
+00079.jpg,images/00079.jpg,Funny 滑稽大佬 反弹 gif,neutral,mocking,test,mrzjy/ChineseBQB,playfui_mocking
+00080.jpg,images/00080.jpg,Funny 滑稽大佬 酒瓶 gif,neutral,mocking,train,mrzjy/ChineseBQB,"stirring_trouble
+"
+00081.jpg,images/00081.jpg,Funny 滑稽大佬 鼓掌 gif,neutral,agreement,train,mrzjy/ChineseBQB,palyful_agreement
+00082.jpg,images/00082.jpg,Funny 滑稽大佬 低头 gif,neutral,refusal,train,mrzjy/ChineseBQB,"playful_apology
+"
+00083.jpg,images/00083.jpg,Funny 滑稽大佬 舞动青春版 gif,neutral,agreement,train,mrzjy/ChineseBQB,"playful_agreement
+
+"
+00084.jpg,images/00084.jpg,Funny 滑稽大佬 咖啡 jpg,neutral,neutral,train,mrzjy/ChineseBQB,no_special_meaning
+00085.jpg,images/00085.jpg,Funny 滑稽大佬 划水 gif,neutral,neutral,train,mrzjy/ChineseBQB,no_special_meaning
+00086.jpg,images/00086.jpg,Funny 滑稽大佬 夹心酱 gif,neutral,celebration,train,mrzjy/ChineseBQB, excitement
+00087.jpg,images/00087.jpg,Funny 滑稽大佬 不要 gif,refusal,refusal,validation,mrzjy/ChineseBQB,playful_refusal
+00088.jpg,images/00088.jpg,Funny 滑稽大佬 扭起来 gif,neutral,neutral,validation,mrzjy/ChineseBQB,no_special_meaning
+00089.jpg,images/00089.jpg,Funny 滑稽大佬 平移 gif,neutral,refusal,test,mrzjy/ChineseBQB,"playful_apology
+"
+00090.jpg,images/00090.jpg,Funny 滑稽大佬 辣鸡 gif,neutral,neutral,train,mrzjy/ChineseBQB,context_lost
+00091.jpg,images/00091.jpg,Funny 滑稽大佬 浪里个浪 gif,neutral,celebration,train,mrzjy/ChineseBQB,happy_reaction
+00092.jpg,images/00092.jpg,Funny 滑稽大佬 带上它你将拥有力量 jpg,neutral,mocking,train,mrzjy/ChineseBQB,playful_mocking
+00093.jpg,images/00093.jpg,Funny 滑稽大佬 喵喵喵 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute
+00094.jpg,images/00094.jpg,Funny 滑稽大佬 布偶滑稽 jpg,neutral,neutral,train,mrzjy/ChineseBQB,cute
+00095.jpg,images/00095.jpg,Funny 滑稽大佬 反复横跳 gif,neutral,confusion,train,mrzjy/ChineseBQB,indecisive_reaction
+00096.jpg,images/00096.jpg,Funny 滑稽大佬 摸鱼 gif,neutral,neutral,train,mrzjy/ChineseBQB,"work_avoidance
+"
+00097.jpg,images/00097.jpg,Funny 滑稽大佬 脑子是个好东西希望你也有 gif,neutral,mocking,validation,mrzjy/ChineseBQB,"insulting_mocking
+"
+00098.jpg,images/00098.jpg,Funny 滑稽大佬 内裤 gif,neutral,mocking,validation,mrzjy/ChineseBQB,self_mocking
+00099.jpg,images/00099.jpg,Funny 滑稽大佬 斗舞 gif,neutral,neutral,test,mrzjy/ChineseBQB,"context_dependent
+"
+00100.jpg,images/00100.jpg,Funny 滑稽大佬 啪啪啪 gif,neutral,mocking,train,mrzjy/ChineseBQB, playful_challenge
+00101.jpg,images/00101.jpg,Funny 滑稽大佬 卖艺 gif,neutral,neutral,train,mrzjy/ChineseBQB,"abstract_humor
+"
+00102.jpg,images/00102.jpg,Funny 滑稽大佬 磕头 gif,neutral,neutral,train,mrzjy/ChineseBQB,"abstract_humor
+"
+00103.jpg,images/00103.jpg,Funny 滑稽大佬 欠收拾 gif,neutral,mocking,train,mrzjy/ChineseBQB,"playful_threat
+"
+00104.jpg,images/00104.jpg,Funny 滑稽大佬 上吊 gif,neutral,mocking,train,mrzjy/ChineseBQB,dark_humor
+00105.jpg,images/00105.jpg,Funny 滑稽大佬 投降 jpg,neutral,refusal,train,mrzjy/ChineseBQB,playful_refusal
+00106.jpg,images/00106.jpg,Funny 滑稽大佬 看右边 gif,neutral,neutral,train,mrzjy/ChineseBQB,no_special_meaning
+00107.jpg,images/00107.jpg,Funny 滑稽大佬 要饭 gif,neutral,neutral,validation,mrzjy/ChineseBQB,abstract_begging
+00108.jpg,images/00108.jpg,Funny 滑稽大佬 左右横跳 gif,neutral,neutral,validation,mrzjy/ChineseBQB,abstract_humor
+00109.jpg,images/00109.jpg,Funny 滑稽大佬 我反正萌新一个 jpg,neutral,mocking,test,mrzjy/ChineseBQB,self_mocking
+00110.jpg,images/00110.jpg,Funny 滑稽大佬 飞稽 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00111.jpg,images/00111.jpg,Funny 滑稽大佬 滑稽树下滑稽果，滑稽树下你和我，滑稽树下做交易欢乐多又多 jpg,mocking,neutral,train,mrzjy/ChineseBQB,"abstract_humor
+"
+00112.jpg,images/00112.jpg,Funny 滑稽大佬 滑稽和阴险达成共识 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"abstract_humor
+"
+00113.jpg,images/00113.jpg,Funny 滑稽大佬 妖孽看法宝 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_warning
+"
+00114.jpg,images/00114.jpg,Funny 滑稽大佬 嘤盖世嘤雄 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00115.jpg,images/00115.jpg,Funny 滑稽大佬 嘤你大爷 png,neutral,mocking,train,mrzjy/ChineseBQB,sacrasm_mocking
+00116.jpg,images/00116.jpg,Funny 滑稽大佬 这个时候要装傻 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"pretending_joke
+"
+00117.jpg,images/00117.jpg,Funny 滑稽大佬 我觉得法律在这里一点用都没有 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,"useless_comment_joke
+"
+00118.jpg,images/00118.jpg,Funny 滑稽大佬 马尾滑稽 jpg,neutral,neutral,validation,mrzjy/ChineseBQB,abstract_humor
+00119.jpg,images/00119.jpg,Funny 滑稽大佬 警察是不会听你解释的 jpg,neutral,mocking,test,mrzjy/ChineseBQB,"playful_warning
+"
+00120.jpg,images/00120.jpg,Funny 滑稽大佬 稍加思索恍然大悟明白110 jpg,neutral,agreement,train,mrzjy/ChineseBQB,playful_agreement
+00121.jpg,images/00121.jpg,Funny 滑稽大佬 蝴蝶结滑稽 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00122.jpg,images/00122.jpg,Funny 滑稽大佬 呆若木稽降智打击 jpg,neutral,mocking,train,mrzjy/ChineseBQB,playful_mocking
+00123.jpg,images/00123.jpg,Funny 滑稽大佬 已经没有什么好害怕的了 jpg,confusion,confusion,train,mrzjy/ChineseBQB,"exaggerated_breakdown
+"
+00124.jpg,images/00124.jpg,Funny 滑稽大佬 晋太元中武陵人捕鱼为业 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00125.jpg,images/00125.jpg,Funny 滑稽大佬 一起哈啤 jpg,neutral,celebration,train,mrzjy/ChineseBQB,abstract_celebration
+00126.jpg,images/00126.jpg,Funny 滑稽大佬 送给你 jpg,neutral,comfort,train,mrzjy/ChineseBQB,abstract_kind_gesture
+00127.jpg,images/00127.jpg,Funny 滑稽大佬 送你一朵小滑稽 jpg,neutral,comfort,validation,mrzjy/ChineseBQB,abstract_kind_gesture
+00128.jpg,images/00128.jpg,Funny 滑稽大佬 嘤雄气短 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,
+00129.jpg,images/00129.jpg,Funny 滑稽大佬 不再害怕 jpg,neutral,confusion,test,mrzjy/ChineseBQB,"exaggerated_breakdown
+"
+00130.jpg,images/00130.jpg,Funny 滑稽大佬 吮指原味稽 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00131.jpg,images/00131.jpg,Funny 滑稽大佬 滑稽问号 jpg,confusion,confusion,train,mrzjy/ChineseBQB,
+00132.jpg,images/00132.jpg,Funny 滑稽大佬 呐花花送你 jpg,neutral,comfort,train,mrzjy/ChineseBQB,abstract_kind_gesture
+00133.jpg,images/00133.jpg,Funny 滑稽大佬 暗中观察 jpg,neutral,neutral,train,mrzjy/ChineseBQB,lurking_observation
+00134.jpg,images/00134.jpg,Funny 滑稽大佬 可以这很滑稽 jpg,agreement,agreement,train,mrzjy/ChineseBQB,"playful_approval
+"
+00135.jpg,images/00135.jpg,Funny 滑稽大佬 梆梆梆 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"abstract_humor
+"
+00136.jpg,images/00136.jpg,Funny 滑稽大佬 天妒嘤才 jpg,neutral,mocking,train,mrzjy/ChineseBQB,
+00137.jpg,images/00137.jpg,Funny 滑稽大佬 立体几何简约版 jpg,neutral,neutral,validation,mrzjy/ChineseBQB,"abstract_humor
+"
+00138.jpg,images/00138.jpg,Funny 滑稽大佬 林嗣环口径京中有善口技者侧目微笑默叹以为妙绝 jpg,neutral,agreement,validation,mrzjy/ChineseBQB,abstract_agreement
+00139.jpg,images/00139.jpg,Funny 滑稽大佬 我开始慌了 jpg,neutral,neutral,test,mrzjy/ChineseBQB,"playful_panic
+"
+00140.jpg,images/00140.jpg,Funny 滑稽大佬 莫名其妙就慌了 jpg,neutral,neutral,train,mrzjy/ChineseBQB,"playful_panic
+"
+00141.jpg,images/00141.jpg,Funny 滑稽大佬 我猜你也开始慌了 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"panic_teasing
+
+"
+00142.jpg,images/00142.jpg,Funny 滑稽大佬 我TM才没慌 jpg,neutral,mocking,train,mrzjy/ChineseBQB,
+00143.jpg,images/00143.jpg,Funny 滑稽大佬 双菜刀滑稽 gif,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00144.jpg,images/00144.jpg,Funny 滑稽大佬 目睹了整个事件的吃瓜群众 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00145.jpg,images/00145.jpg,Funny 滑稽大佬 tql跳起来 jpg,neutral,agreement,train,mrzjy/ChineseBQB,abstract_agreement
+00146.jpg,images/00146.jpg,Funny 滑稽大佬 萌新拿起了搬准备和大佬肛道理 jpg,neutral,mocking,train,mrzjy/ChineseBQB,"playful_threat
+"
+00147.jpg,images/00147.jpg,Funny 滑稽大佬 一时语塞 jpg,neutral,confusion,validation,mrzjy/ChineseBQB,"speechless_reaction
+"
+00148.jpg,images/00148.jpg,Funny 滑稽大佬 受到惊吓 jpg,neutral,confusion,validation,mrzjy/ChineseBQB,fear_reaction
+00149.jpg,images/00149.jpg,Funny 滑稽大佬 不过如此 jpg,neutral,mocking,test,mrzjy/ChineseBQB,dismissive_mocking
+00150.jpg,images/00150.jpg,Funny 滑稽大佬 敲木鱼转佛珠 gif,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00151.jpg,images/00151.jpg,Funny 滑稽大佬 滑稽上吊 gif,neutral,confusion,train,mrzjy/ChineseBQB,exaggerated_breakdown
+00152.jpg,images/00152.jpg,Funny 滑稽大佬 滑稽躁动 gif,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00153.jpg,images/00153.jpg,Funny 滑稽大佬 我书读的少你不要骗我 jpg,refusal,refusal,train,mrzjy/ChineseBQB,skeptical_response
+00154.jpg,images/00154.jpg,Funny 滑稽大佬 滑稽震惊 jpg,confusion,confusion,train,mrzjy/ChineseBQB,surprised_reaction
+00155.jpg,images/00155.jpg,Funny 滑稽大佬 过分 jpg,neutral,mocking,train,mrzjy/ChineseBQB,playful_complaint
+00156.jpg,images/00156.jpg,Funny 滑稽大佬 真是危机四伏的世界 jpg,neutral,confusion,train,mrzjy/ChineseBQB,exaggerated_anxiety
+00157.jpg,images/00157.jpg,Funny 滑稽大佬 我有360保护 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,tech_protection_joke
+00158.jpg,images/00158.jpg,Funny 滑稽大佬 喝茶 jpg,neutral,neutral,validation,mrzjy/ChineseBQB,casual_reaction
+00159.jpg,images/00159.jpg,Funny 滑稽大佬 将稽就稽 jpg,neutral,neutral,test,mrzjy/ChineseBQB,pun_abstract_humor
+00160.jpg,images/00160.jpg,Funny 滑稽大佬 小声密谋嗯嗯嗯 jpg,neutral,mocking,train,mrzjy/ChineseBQB,secret_plotting_joke
+00161.jpg,images/00161.jpg,Funny 滑稽大佬 不是很懂 jpg,neutral,confusion,train,mrzjy/ChineseBQB,not_understanding
+00162.jpg,images/00162.jpg,Funny 滑稽大佬 这么巧你也怕呀是啊害怕 jpg,confusion,agreement,train,mrzjy/ChineseBQB,playful_fear_agreement
+00163.jpg,images/00163.jpg,Funny 滑稽大佬 来啊互相伤害啊 gif,confusion,mocking,train,mrzjy/ChineseBQB,playful_challenge
+00164.jpg,images/00164.jpg,Funny 滑稽大佬 躲进小被几 jpg,neutral,neutral,train,mrzjy/ChineseBQB,cute_hiding
+00165.jpg,images/00165.jpg,Funny 滑稽大佬 超级加被 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00166.jpg,images/00166.jpg,Funny 滑稽大佬 无敌加被 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00167.jpg,images/00167.jpg,Funny 滑稽大佬 拽走小被几 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,playful_teasing
+00168.jpg,images/00168.jpg,Funny 滑稽大佬 冰冰滑稽简约线条极致色彩 jpg,neutral,neutral,validation,mrzjy/ChineseBQB,abstract_humor
+00169.jpg,images/00169.jpg,Funny 滑稽大佬 老实 jpg,neutral,mocking,test,mrzjy/ChineseBQB,playful_warning
+00170.jpg,images/00170.jpg,Funny 滑稽大佬 调皮捣蛋还TM搞事 jpg,neutral,mocking,train,mrzjy/ChineseBQB,stirring_trouble
+00171.jpg,images/00171.jpg,Funny 滑稽大佬 燥起来 gif,neutral,celebration,train,mrzjy/ChineseBQB,hype_reaction
+00172.jpg,images/00172.jpg,Funny 滑稽大佬 嘤俊潇洒 jpg,neutral,mocking,train,mrzjy/ChineseBQB,playful_showing_off
+00173.jpg,images/00173.jpg,Funny 滑稽大佬 等待要饭 gif,neutral,mocking,train,mrzjy/ChineseBQB,self_mocking_begging
+00174.jpg,images/00174.jpg,Funny 滑稽大佬 滑稽遗照 jpg,neutral,mocking,train,mrzjy/ChineseBQB,dark_humor
+00175.jpg,images/00175.jpg,Funny 滑稽大佬 鼓掌不错 gif,neutral,agreement,train,mrzjy/ChineseBQB,praise
+00176.jpg,images/00176.jpg,Funny 滑稽大佬 滑稽上吊 jpg,neutral,confusion,train,mrzjy/ChineseBQB,exaggerated_breakdown
+00177.jpg,images/00177.jpg,Funny 滑稽大佬 滑稽刀法 gif,neutral,mocking,validation,mrzjy/ChineseBQB,abstract_threat
+00178.jpg,images/00178.jpg,Funny 滑稽大佬 少来这套 jpg,neutral,refusal,validation,mrzjy/ChineseBQB,dismissive_refusal
+00179.jpg,images/00179.jpg,Funny 滑稽大佬 要饭势力登场穷 jpg,neutral,mocking,test,mrzjy/ChineseBQB,self_mocking_begging
+00180.jpg,images/00180.jpg,Funny 滑稽大佬 队长别开枪是我 jpg,refusal,refusal,train,mrzjy/ChineseBQB,playful_pleading
+00181.jpg,images/00181.jpg,Funny 滑稽大佬 摸着我可爱的自己摸鱼咸鱼 gif,neutral,neutral,train,mrzjy/ChineseBQB,slacking_off
+00182.jpg,images/00182.jpg,Funny 滑稽大佬 害怕立体几何限定 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00183.jpg,images/00183.jpg,Funny 滑稽大佬 害怕立体几何高级版 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00184.jpg,images/00184.jpg,Funny 滑稽大佬 记录丢人过程 jpg,neutral,mocking,train,mrzjy/ChineseBQB,self_mocking
+00185.jpg,images/00185.jpg,Funny 滑稽大佬 好评 jpg,neutral,agreement,train,mrzjy/ChineseBQB,approval
+00186.jpg,images/00186.jpg,Funny 滑稽大佬 当然我说是就是 jpg,neutral,agreement,train,mrzjy/ChineseBQB,playful_assertion
+00187.jpg,images/00187.jpg,Funny 滑稽大佬 你完蛋了 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,playful_warning
+00188.jpg,images/00188.jpg,Funny 滑稽大佬 我觉得你要被抓起来了 jpg,neutral,mocking,validation,mrzjy/ChineseBQB,playful_warning
+00189.jpg,images/00189.jpg,Funny 滑稽大佬 事情似乎变得有趣起来 jpeg,neutral,mocking,test,mrzjy/ChineseBQB,mischievous_interest
+00190.jpg,images/00190.jpg,Funny 滑稽大佬 老嘤抓小稽 jpeg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00191.jpg,images/00191.jpg,Funny 滑稽大佬 穷人的微笑 jpeg,neutral,mocking,train,mrzjy/ChineseBQB,self_mocking_poverty
+00192.jpg,images/00192.jpg,Funny 滑稽大佬 不向恶势力低头 jpeg,neutral,refusal,train,mrzjy/ChineseBQB,defiant_refusal
+00193.jpg,images/00193.jpg,Funny 滑稽大佬 嘤年早逝 jpeg,neutral,mocking,train,mrzjy/ChineseBQB,dark_humor
+00194.jpg,images/00194.jpg,CuteGirl 可爱的女孩纸 000000002 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00195.jpg,images/00195.jpg,CuteGirl 可爱的女孩纸 别人笑我太疯癫我笑他人看不穿 gif,refusal,mocking,train,mrzjy/ChineseBQB,self_confident_mocking
+00196.jpg,images/00196.jpg,CuteGirl 可爱的女孩纸 吹刘海儿 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00197.jpg,images/00197.jpg,CuteGirl 可爱的女孩纸 我要亲你 gif,neutral,comfort,validation,mrzjy/ChineseBQB,affection
+00198.jpg,images/00198.jpg,CuteGirl 可爱的女孩纸 矮油 gif,neutral,neutral,validation,mrzjy/ChineseBQB,cute_reaction
+00199.jpg,images/00199.jpg,CuteGirl 可爱的女孩纸 亲 gif,neutral,comfort,test,mrzjy/ChineseBQB,affection
+00200.jpg,images/00200.jpg,CuteGirl 可爱的女孩纸 mua gif,neutral,comfort,train,mrzjy/ChineseBQB,affection
+00201.jpg,images/00201.jpg,CuteGirl 可爱的女孩纸 耶 gif,neutral,celebration,train,mrzjy/ChineseBQB,happy_reaction
+00202.jpg,images/00202.jpg,CuteGirl 可爱的女孩纸 害羞 gif,neutral,neutral,train,mrzjy/ChineseBQB,shy_reaction
+00203.jpg,images/00203.jpg,CuteGirl 可爱的女孩纸 让我想一想 gif,neutral,confusion,train,mrzjy/ChineseBQB,thinking_reaction
+00204.jpg,images/00204.jpg,CuteGirl 可爱的女孩纸 我再也不相信爱情了 gif,neutral,neutral,train,mrzjy/ChineseBQB,sad_mood
+00205.jpg,images/00205.jpg,CuteGirl 可爱的女孩纸 嘻嘻嘻嘻 gif,neutral,celebration,train,mrzjy/ChineseBQB,happy_reaction
+00206.jpg,images/00206.jpg,CuteGirl 可爱的女孩纸 你是不是喜欢我 gif,neutral,mocking,train,mrzjy/ChineseBQB,playful_teasing
+00207.jpg,images/00207.jpg,CuteGirl 可爱的女孩纸 你不喜欢了吗 gif,neutral,comfort,validation,mrzjy/ChineseBQB,seeking_comfort
+00208.jpg,images/00208.jpg,CuteGirl 可爱的女孩纸 长得美是我错吗 gif,neutral,mocking,validation,mrzjy/ChineseBQB,playful_bragging
+00209.jpg,images/00209.jpg,CuteGirl 可爱的女孩纸 小哥哥快来快来 gif,neutral,agreement,test,mrzjy/ChineseBQB,playful_invitation
+00210.jpg,images/00210.jpg,CuteGirl 可爱的女孩纸 不是本人 gif,neutral,refusal,train,mrzjy/ChineseBQB,denial
+00211.jpg,images/00211.jpg,CuteGirl 可爱的女孩纸 算你识相 gif,neutral,mocking,train,mrzjy/ChineseBQB,playful_contempt
+00212.jpg,images/00212.jpg,CuteGirl 可爱的女孩纸 送你花花 gif,neutral,comfort,train,mrzjy/ChineseBQB,kind_gesture
+00213.jpg,images/00213.jpg,CuteGirl 可爱的女孩纸 不许笑 gif,neutral,refusal,train,mrzjy/ChineseBQB,playful_refusal
+00214.jpg,images/00214.jpg,CuteGirl 可爱的女孩纸 我好累 gif,neutral,neutral,train,mrzjy/ChineseBQB,tired_mood
+00215.jpg,images/00215.jpg,CuteGirl 可爱的女孩纸 给你吃 jpg,neutral,comfort,train,mrzjy/ChineseBQB,kind_gesture
+00216.jpg,images/00216.jpg,CuteGirl 可爱的女孩纸 啊 gif,confusion,confusion,train,mrzjy/ChineseBQB,surprised_reaction
+00217.jpg,images/00217.jpg,CuteGirl 可爱的女孩纸 耶耶嘿嘿 gif,neutral,celebration,validation,mrzjy/ChineseBQB,happy_reaction
+00218.jpg,images/00218.jpg,CuteGirl 可爱的女孩纸 理头发 gif,neutral,neutral,validation,mrzjy/ChineseBQB,cute_reaction
+00219.jpg,images/00219.jpg,CuteGirl 可爱的女孩纸 对方白了你一眼并不想理你 jpg,refusal,refusal,test,mrzjy/ChineseBQB,dismissive_refusal
+00220.jpg,images/00220.jpg,CuteGirl 可爱的女孩纸 品尝 gif,neutral,neutral,train,mrzjy/ChineseBQB,food_reaction
+00221.jpg,images/00221.jpg,CuteGirl 可爱的女孩纸 撒浪嘿呦 gif,neutral,comfort,train,mrzjy/ChineseBQB,affection
+00222.jpg,images/00222.jpg,CuteGirl 可爱的女孩纸 喝水 gif,neutral,neutral,train,mrzjy/ChineseBQB,daily_reaction
+00223.jpg,images/00223.jpg,CuteGirl 可爱的女孩纸 接电话 gif,neutral,neutral,train,mrzjy/ChineseBQB,daily_reaction
+00224.jpg,images/00224.jpg,CuteGirl 可爱的女孩纸 喝酸奶 jpg,neutral,neutral,train,mrzjy/ChineseBQB,food_reaction
+00225.jpg,images/00225.jpg,CuteGirl 可爱的女孩纸 碎碎念 gif,neutral,neutral,train,mrzjy/ChineseBQB,mumbling_reaction
+00226.jpg,images/00226.jpg,CuteGirl 可爱的女孩纸 亲亲 gif,neutral,comfort,train,mrzjy/ChineseBQB,affection
+00227.jpg,images/00227.jpg,CuteGirl 可爱的女孩纸 亲亲 gif,neutral,comfort,validation,mrzjy/ChineseBQB,affection
+00228.jpg,images/00228.jpg,CuteGirl 可爱的女孩纸 你在干嘛呀 gif,neutral,neutral,validation,mrzjy/ChineseBQB,checking_in
+00229.jpg,images/00229.jpg,CuteGirl 可爱的女孩纸 吃水果 gif,neutral,neutral,test,mrzjy/ChineseBQB,food_reaction
+00230.jpg,images/00230.jpg,CuteGirl 可爱的女孩纸 吃面包 gif,neutral,neutral,train,mrzjy/ChineseBQB,food_reaction
+00231.jpg,images/00231.jpg,CuteGirl 可爱的女孩纸 放电 gif,neutral,mocking,train,mrzjy/ChineseBQB,playful_flirting
+00232.jpg,images/00232.jpg,CuteGirl 可爱的女孩纸 张嘴大哭 gif,neutral,comfort,train,mrzjy/ChineseBQB,seeking_comfort
+00233.jpg,images/00233.jpg,CuteGirl 可爱的女孩纸 啊哈 jpg,confusion,celebration,train,mrzjy/ChineseBQB,playful_excitement
+00234.jpg,images/00234.jpg,CuteGirl 可爱的女孩纸 电你 jpg,neutral,mocking,train,mrzjy/ChineseBQB,playful_flirting
+00235.jpg,images/00235.jpg,CuteGirl 可爱的女孩纸 眨眼 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00236.jpg,images/00236.jpg,CuteGirl 可爱的女孩纸 回头 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00237.jpg,images/00237.jpg,CuteGirl 可爱的女孩纸 无聊 gif,neutral,neutral,validation,mrzjy/ChineseBQB,bored_mood
+00238.jpg,images/00238.jpg,CuteGirl 可爱的女孩纸 哎呀讨厌啦 jpg,neutral,refusal,validation,mrzjy/ChineseBQB,playful_refusal
+00239.jpg,images/00239.jpg,CuteGirl 可爱的女孩纸 我好累 gif,neutral,neutral,test,mrzjy/ChineseBQB,tired_mood
+00240.jpg,images/00240.jpg,CuteGirl 可爱的女孩纸 惊讶 gif,neutral,confusion,train,mrzjy/ChineseBQB,surprised_reaction
+00241.jpg,images/00241.jpg,CuteGirl 可爱的女孩纸 摇头 gif,neutral,refusal,train,mrzjy/ChineseBQB,shaking_head_refusal
+00242.jpg,images/00242.jpg,CuteGirl 可爱的女孩纸 不开心转笑 gif,celebration,celebration,train,mrzjy/ChineseBQB,mood_shift_happy
+00243.jpg,images/00243.jpg,CuteGirl 可爱的女孩纸 略略略 gif,neutral,mocking,train,mrzjy/ChineseBQB,playful_teasing
+00244.jpg,images/00244.jpg,CuteGirl 可爱的女孩纸 风吹脑门儿 jpg,neutral,neutral,train,mrzjy/ChineseBQB,abstract_humor
+00245.jpg,images/00245.jpg,CuteGirl 可爱的女孩纸 亲亲 jpg,neutral,comfort,train,mrzjy/ChineseBQB,affection
+00246.jpg,images/00246.jpg,CuteGirl 可爱的女孩纸 嗨起来 gif,neutral,celebration,train,mrzjy/ChineseBQB,hype_reaction
+00247.jpg,images/00247.jpg,CuteGirl 可爱的女孩纸 摆pose gif,neutral,neutral,validation,mrzjy/ChineseBQB,pose_reaction
+00248.jpg,images/00248.jpg,CuteGirl 可爱的女孩纸 我做错了什么 gif,confusion,confusion,validation,mrzjy/ChineseBQB,wronged_confusion
+00249.jpg,images/00249.jpg,CuteGirl 可爱的女孩纸 你的小可爱已上线 gif,neutral,neutral,test,mrzjy/ChineseBQB,cute_reaction
+00250.jpg,images/00250.jpg,CuteGirl 可爱的女孩纸 咦啊 gif,confusion,confusion,train,mrzjy/ChineseBQB,surprised_reaction
+00251.jpg,images/00251.jpg,CuteGirl 可爱的女孩纸 战术摇头 gif,neutral,refusal,train,mrzjy/ChineseBQB,playful_refusal
+00252.jpg,images/00252.jpg,CuteGirl 可爱的女孩纸 么么哒 jpg,neutral,comfort,train,mrzjy/ChineseBQB,affection
+00253.jpg,images/00253.jpg,CuteGirl 可爱的女孩纸 大家好 gif,neutral,neutral,train,mrzjy/ChineseBQB,greeting
+00254.jpg,images/00254.jpg,CuteGirl 可爱的女孩纸 哇超棒 jpg,neutral,agreement,train,mrzjy/ChineseBQB,praise
+00255.jpg,images/00255.jpg,CuteGirl 可爱的女孩纸 咿呀 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00256.jpg,images/00256.jpg,CuteGirl 可爱的女孩纸 翻白眼 gif,neutral,mocking,train,mrzjy/ChineseBQB,eye_roll
+00257.jpg,images/00257.jpg,CuteGirl 可爱的女孩纸 有没有想我 gif,neutral,comfort,validation,mrzjy/ChineseBQB,seeking_attention
+00258.jpg,images/00258.jpg,CuteGirl 可爱的女孩纸 疯狂摇头带叉腰 gif,neutral,refusal,validation,mrzjy/ChineseBQB,strong_refusal
+00259.jpg,images/00259.jpg,CuteGirl 可爱的女孩纸 我是小仙女 gif,neutral,mocking,test,mrzjy/ChineseBQB,playful_bragging
+00260.jpg,images/00260.jpg,CuteGirl 可爱的女孩纸 抬头笑 gif,neutral,celebration,train,mrzjy/ChineseBQB,happy_reaction
+00261.jpg,images/00261.jpg,CuteGirl 可爱的女孩纸 可爱擦嘴 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00262.jpg,images/00262.jpg,CuteGirl 可爱的女孩纸 侧脸笑 gif,neutral,neutral,train,mrzjy/ChineseBQB,cute_reaction
+00263.jpg,images/00263.jpg,CuteGirl 可爱的女孩纸 给我滚 gif,refusal,refusal,train,mrzjy/ChineseBQB,hostile_refusal
+00264.jpg,images/00264.jpg,CuteGirl 可爱的女孩纸 HelloMrDj这节奏不要停 gif,refusal,celebration,train,mrzjy/ChineseBQB,hype_reaction
+00265.jpg,images/00265.jpg,CuteGirl 可爱的女孩纸 生无可恋 gif,neutral,confusion,train,mrzjy/ChineseBQB,exaggerated_breakdown
+00266.jpg,images/00266.jpg,CuteGirl 可爱的女孩纸 别问我我什么都不知道 gif,refusal,refusal,train,mrzjy/ChineseBQB,denial
+00267.jpg,images/00267.jpg,CuteGirl 可爱的女孩纸 今天除了皮又啥也没干 gif,confusion,mocking,validation,mrzjy/ChineseBQB,playful_self_mocking
+00268.jpg,images/00268.jpg,CuteGirl 可爱的女孩纸 臭猪 gif,neutral,mocking,validation,mrzjy/ChineseBQB,friendly_insult
+00269.jpg,images/00269.jpg,CuteGirl 可爱的女孩纸 被命运卡住脸 gif,neutral,mocking,test,mrzjy/ChineseBQB,self_mocking
+00270.jpg,images/00270.jpg,CuteGirl 可爱的女孩纸 哈哈哈哈嗝 gif,mocking,celebration,train,mrzjy/ChineseBQB,laughing_reaction
+00271.jpg,images/00271.jpg,CuteGirl 可爱的女孩纸 先溜一步 gif,neutral,refusal,train,mrzjy/ChineseBQB,escaping
+00272.jpg,images/00272.jpg,CuteGirl 可爱的女孩纸 搞嘛事儿 gif,neutral,confusion,train,mrzjy/ChineseBQB,questioning_reaction
+00273.jpg,images/00273.jpg,CuteGirl 可爱的女孩纸 小哥哥上车吗 gif,neutral,agreement,train,mrzjy/ChineseBQB,playful_invitation
+00274.jpg,images/00274.jpg,CuteGirl 可爱的女孩纸 每天睡醒的我 gif,neutral,neutral,train,mrzjy/ChineseBQB,daily_mood
+00275.jpg,images/00275.jpg,CuteGirl 可爱的女孩纸 糟了我好像要恋爱了 gif,neutral,celebration,train,mrzjy/ChineseBQB,romantic_excitement
+00276.jpg,images/00276.jpg,CuteGirl 可爱的女孩纸 我好羡慕啊 gif,confusion,neutral,train,mrzjy/ChineseBQB,envy_reaction
+00277.jpg,images/00277.jpg,CuteGirl 可爱的女孩纸 哼 gif,neutral,refusal,validation,mrzjy/ChineseBQB,sulking_refusal
+00278.jpg,images/00278.jpg,CuteGirl 可爱的女孩纸 你注意点我这鞋可不是闹着玩的 gif,neutral,mocking,validation,mrzjy/ChineseBQB,playful_threat
+00279.jpg,images/00279.jpg,CuteGirl 可爱的女孩纸 贵妇出街 gif,neutral,mocking,test,mrzjy/ChineseBQB,playful_showing_off
+00280.jpg,images/00280.jpg,CuteGirl 可爱的女孩纸 我不想减肥 gif,refusal,refusal,train,mrzjy/ChineseBQB,refusal
+00281.jpg,images/00281.jpg,CuteGirl 可爱的女孩纸 上帝啊 gif,confusion,confusion,train,mrzjy/ChineseBQB,exclamation
+00282.jpg,images/00282.jpg,CuteGirl 可爱的女孩纸 偷瞄 gif,neutral,neutral,train,mrzjy/ChineseBQB,lurking_observation
+00283.jpg,images/00283.jpg,CuteGirl 可爱的女孩纸 疑问 gif,neutral,confusion,train,mrzjy/ChineseBQB,questioning_reaction
+00284.jpg,images/00284.jpg,CuteGirl 可爱的女孩纸 盯 gif,neutral,neutral,train,mrzjy/ChineseBQB,staring_reaction
+00285.jpg,images/00285.jpg,CuteGirl 可爱的女孩纸 严肃 gif,neutral,neutral,train,mrzjy/ChineseBQB,serious_reaction
+00286.jpg,images/00286.jpg,CuteGirl 可爱的女孩纸 哼 gif,neutral,refusal,train,mrzjy/ChineseBQB,sulking_refusal
+00287.jpg,images/00287.jpg,CuteGirl 可爱的女孩纸 等一个亲亲 gif,neutral,comfort,validation,mrzjy/ChineseBQB,seeking_affection
+00288.jpg,images/00288.jpg,CuteGirl 可爱的女孩纸 委屈 gif,neutral,comfort,validation,mrzjy/ChineseBQB,seeking_comfort
+00289.jpg,images/00289.jpg,CuteGirl 可爱的女孩纸 色诱 gif,neutral,mocking,test,mrzjy/ChineseBQB,playful_flirting
+00290.jpg,images/00290.jpg,CuteGirl 可爱的女孩纸 打钱之外的事不要叫我 gif,refusal,refusal,train,mrzjy/ChineseBQB,money_first_refusal
+00291.jpg,images/00291.jpg,CuteGirl 可爱的女孩纸 委屈巴巴 gif,neutral,comfort,train,mrzjy/ChineseBQB,seeking_comfort
+00292.jpg,images/00292.jpg,CuteGirl 可爱的女孩纸 十拿九稳差你一吻 gif,neutral,mocking,train,mrzjy/ChineseBQB,flirt_joke
+00293.jpg,images/00293.jpg,CuteGirl 可爱的女孩纸 可把我得意坏了 gif,neutral,celebration,train,mrzjy/ChineseBQB,proud_happy
+00294.jpg,images/00294.jpg,CuteGirl 可爱的女孩纸 段位和你我都想上 gif,neutral,mocking,train,mrzjy/ChineseBQB,flirt_joke
+00295.jpg,images/00295.jpg,CuteGirl 可爱的女孩纸 可以撩你吗 gif,agreement,agreement,train,mrzjy/ChineseBQB,playful_flirting
+00296.jpg,images/00296.jpg,CuteGirl 可爱的女孩纸 请问去你心里怎么走 gif,neutral,agreement,train,mrzjy/ChineseBQB,playful_flirting
+00297.jpg,images/00297.jpg,CuteGirl 可爱的女孩纸 先发红包后唠嗑 gif,neutral,refusal,validation,mrzjy/ChineseBQB,money_first_refusal
+00298.jpg,images/00298.jpg,CuteGirl 可爱的女孩纸 为我们的友谊干杯 gif,neutral,celebration,validation,mrzjy/ChineseBQB,friendship_toast
+00299.jpg,images/00299.jpg,CuteGirl 可爱的女孩纸 哭哭 gif,neutral,comfort,test,mrzjy/ChineseBQB,seeking_comfort
